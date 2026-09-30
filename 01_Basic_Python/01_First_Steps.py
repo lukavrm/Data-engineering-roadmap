@@ -1,30 +1,30 @@
-# Print() com texto simples
+# Print() with simple text
 
 print("Hello World.")
 
-# Print() com variáveis
+# Print() with variables
 
-mensagem = "Estou aprendendo Python básico."
+message = "I am learning basic Python."
 
-print(mensagem)
+print(message)
 
-# Print() com múltiplos valores
+# Print() with multiple values
 
-nome = "Maria"
-idade = 25
+name = "Maria"
+age = 25
 
-print("Meu nome é", nome, "e eu tenho", idade, "anos.")
+print("My name is", name, "and I am", age, "years old.")
 
-# Print() com números
+# Print() with numbers
 
-numero = 42
+number = 42
 
-print("O número escolhido é:", numero)
+print("The chosen number is:", number)
 
 print(100)
 print(3.14)
 
-# Print com operações matemáticas
+# Print with mathematical operations
 
-print("A soma de 5 + 3 é:", 5 + 3)
-print("O resultado de 10 * 2 é:", 10 * 2)
+print("The sum of 5 + 3 is:", 5 + 3)
+print("The result of 10 * 2 is:", 10 * 2)
