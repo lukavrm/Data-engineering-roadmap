@@ -18,8 +18,3 @@
 This repository documents my complete learning journey toward becoming a **Data Engineer**.
 
 Este repositório documenta toda a minha jornada de aprendizado rumo a me tornar um **Engenheiro de Dados**.
-
----
-
-## 📁 Structure / Estrutura
-
