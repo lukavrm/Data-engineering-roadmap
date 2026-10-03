@@ -58,7 +58,7 @@ Progress indicators:
 - ✔️ Loops  
 - ✔️ Functions  
 - ✔️ Practical exercises  
-📁 *Code:* `01-python-basico/`
+📁 *Code:* [01_Basic_Python](01_Basic_Python/)`
 
 ### ✔️ Data Structures
 - ✔️ Lists, tuples, dictionaries  
